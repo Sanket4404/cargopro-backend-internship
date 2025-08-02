@@ -1,7 +1,6 @@
-cat <<'EOF' >> README.md
 # CargoPro Backend – Internship Assignment
 
-Spring Boot 3 REST API for **Load & Booking** management, optimized for performance, security and scalability.
+Spring Boot 3 REST API for **Load & Booking** management, optimised for performance, security and scalability.
 
 ## Tech Stack
 - **Java 21 + Spring Boot 3**
